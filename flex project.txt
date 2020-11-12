@@ -1,0 +1,64 @@
+//Hello ,I am here.
+@include st stdio.h gt
+
+var_void v_function : leftfb var_int v_pmt rightfb
+leftsb
+    iff leftfb v_pmt eqq 0 rightfb
+    leftsb
+    rtrn;
+    rightsb
+
+    elsee
+    leftsb
+        pf leftfb "pmt" rightfb;
+    rightsb
+rightsb
+
+var_int main : leftfb rightfb
+leftsb
+    var_int v_i as 5;
+    var_int v_countt;
+    var_string v_str;
+    var_double v_dd;
+    var_int v_arr[10];
+
+    sf leftfb v_countt rightfb;
+
+    
+    v_i as 0;
+    rof leftfb v_i : v_i st 10 : v_i jj rightfb
+    leftsb
+        pf leftfb "v_i" rightfb
+    rightsb
+
+    v_i eqq v_i jog 4;
+    v_i eqq v_i biyog 4;
+    v_i eqq v_i goon 4;
+    v_i eqq v_i vag 4;
+
+    v_i joge 4;
+    v_i biyoge 4;
+    v_i goone 4;
+    v_i vage 4;
+
+    v_i jj;
+    v_i bb;
+
+	///this is 
+
+    iff leftfb v_i eqq v_countt rightfb
+    leftsb
+        pf leftfb "equal" rightfb;
+    rightsb
+
+    eliff leftfb v_i gt v_countt rightfb
+    leftsb
+        pf leftfb "greater" rightfb ;
+    rightsb
+
+    elsee
+    leftsb
+        pf leftfb "smaller" rightfb ;
+    rightsb
+
+rightsb

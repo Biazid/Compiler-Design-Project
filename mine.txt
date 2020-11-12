@@ -1,0 +1,34 @@
+#   @
+<   st
+>   gt
+int var_int 
+(    leftfb
+)    rightfb
+{    leftsb
+}	rightsb
+[   lefttb
+]     righttb
+count countt
+printf   pf
+scanf    sf
+if        iff
+else      elsee
+& 	and
+
+elseif    eliff
+!=    neq
+else      elsee
+=       eqq
+for   rof
++	 jog
+- 	 biyog
+*  	goon
+/  	vag 
++=       joge
+-=	biyoge
+*=	goone
+/=       vage
+
+++    jj
+--    bb
+parameter pmt
